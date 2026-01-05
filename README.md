@@ -11,7 +11,7 @@ Add this script tag to your HTML code
 **Get the Mean of a bunch of numbers.**
 
 ```JavaScript
-let inputNumbers = [2, 4, 6, 8];
+let inputNumbers = [2, "9", 4, 6, 8];
 let result = getMean(inputNumbers);
 console.log(result); // 5
 ```

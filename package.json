@@ -1,0 +1,26 @@
+{
+  "name": "averagejs",
+  "version": "1.0.0",
+  "description": "A JavaScript library that can calculate the average such as mean, median, mode from a bunch of numbers.",
+  "keywords": [
+    "average",
+    "Mean",
+    "Math",
+    "Calculate"
+  ],
+  "homepage": "https://github.com/RichardLiuCode/averagejs#readme",
+  "bugs": {
+    "url": "https://github.com/RichardLiuCode/averagejs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RichardLiuCode/averagejs.git"
+  },
+  "license": "MIT",
+  "author": "Richard Liu",
+  "type": "commonjs",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"No test yet\""
+  }
+}
