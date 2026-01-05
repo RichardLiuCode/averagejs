@@ -1,6 +1,6 @@
 # AverageJS
 
-A JavaScript library that can calculate the average such as mean, median, mode from a bunch of numbers
+A JavaScript library that can calculate the average such as mean, median, mode from a bunch of numbers.
 
 # Installation
 
