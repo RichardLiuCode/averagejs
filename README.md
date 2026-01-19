@@ -28,3 +28,11 @@ let inputNumbers = [5, 4, 2, 6, 3];
 let result = getMean(inputNumbers);
 console.log(result); // 4
 ```
+
+**Get the Mode of a bunch of numbers.**
+
+```JavaScript
+let inputNumbers = [1, 1, 2, 2, 3];
+let result = getModes(inputNumbers);
+console.log(result); // 1,2
+```
